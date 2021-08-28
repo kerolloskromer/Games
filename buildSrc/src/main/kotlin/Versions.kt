@@ -1,0 +1,16 @@
+object Versions {
+    const val gradlePlugin = "4.2.2"
+    const val kotlin = "1.5.20"
+    const val core = "1.6.0"
+    const val appCompat = "1.3.1"
+    const val materialDesign = "1.4.0"
+    const val recyclerView = "1.2.1"
+    const val constraintLayout = "2.1.0"
+    const val liveData = "2.3.1"
+    const val viewModel = "2.3.1"
+    const val navigationFragment = "2.3.5"
+    const val navigationUI = "2.3.5"
+    const val junit = "4.+"
+    const val androidJunit = "1.1.3"
+    const val espresso = "3.4.0"
+}
