@@ -12,5 +12,5 @@
         android:layout_height="match_parent"
         android:padding="16dp"
         android:textIsSelectable="true"
-        tools:context="com.kromer.games.ItemDetailFragment" />
+        tools:context="com.kromer.games.features.games.presentation.details.ItemDetailFragment" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

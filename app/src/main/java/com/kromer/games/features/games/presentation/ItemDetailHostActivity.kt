@@ -1,4 +1,4 @@
-package com.kromer.games
+package com.kromer.games.features.games.presentation
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -7,6 +7,7 @@ import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
+import com.kromer.games.R
 import com.kromer.games.databinding.ActivityItemDetailBinding
 
 class ItemDetailHostActivity : AppCompatActivity() {

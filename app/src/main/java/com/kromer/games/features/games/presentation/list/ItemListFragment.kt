@@ -1,4 +1,4 @@
-package com.kromer.games
+package com.kromer.games.features.games.presentation.list
 
 import android.os.Build
 import android.os.Bundle
@@ -12,6 +12,8 @@ import androidx.core.view.ViewCompat
 import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import androidx.recyclerview.widget.RecyclerView
+import com.kromer.games.features.games.presentation.details.ItemDetailFragment
+import com.kromer.games.R
 import com.kromer.games.placeholder.PlaceholderContent;
 import com.kromer.games.databinding.FragmentItemListBinding
 import com.kromer.games.databinding.ItemListContentBinding
